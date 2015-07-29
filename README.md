@@ -1,0 +1,2 @@
+# formalfridayclub
+Test homebrew recipes
